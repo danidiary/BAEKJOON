@@ -8,3 +8,9 @@ if year%4==0 :      # write equals remainder
     print(0)
 else:                     # don't use tab if you don't want to use the else on the codes on the inside.
   print(0)
+
+
+# if(((year % 4) == 0) and ((year % 100) != 0) or ((year % 400) == 0)) :
+#   print('1')
+# else :
+#   print('0')
